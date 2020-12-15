@@ -2,7 +2,7 @@
 
 ## Partijen
 
-1. Charper Bonaroo B.V., gevestigd aan de Boeingavenue 215-8, 1119PD  te Schiphol-Rijk, geregistreerd bij de Kamer van Koophandel onder nummer 67186963, te dezen rechtsgeldig vertegenwoordigd door ____________ (hierna: Bonaroo)
+1. Charper Bonaroo B.V., gevestigd aan de Kinderhuissingel 6-K, 2013 AS te Haarlem, geregistreerd bij de Kamer van Koophandel onder nummer 67186963, te dezen rechtsgeldig vertegenwoordigd door ____________ (hierna: Bonaroo)
 2. ______________________, gevestigd ____________________________________, geregistreerd bij de Kamer van Koophandel onder nummer ____________, te dezen rechtsgeldig vertegenwoordigd door ___________________________ (hierna: XXX),
 
 ## Overwegende dat
