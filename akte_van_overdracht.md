@@ -48,7 +48,7 @@
 
 Aldus overeengekomen en in tweevoud ondertekend.
 
-Charper Bonaroo B.V.
+partij: Charper Bonaroo B.V.
 
 datum:
 
@@ -56,7 +56,8 @@ plaats:
 
 handtekening:
 
-.__________________
+
+partij:
 
 datum:
 
