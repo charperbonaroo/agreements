@@ -1,2 +1,2 @@
-# agreements
-Various contracts and agreements we use
+# Agreements
+Various contracts and agreements we use.
