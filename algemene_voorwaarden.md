@@ -55,7 +55,7 @@ Bonaroo en Cliënt.
 randapparatuur waarop een variant van een Product draait, mee communiceert of op enige
 wijze​ ​van​ ​afhankelijk​ ​is.
 
-1. 12. Project: een grote Wijziging waarvan Bonaroo op basis van ervaring en inzicht inschat
+1.12. Project: een grote Wijziging waarvan Bonaroo op basis van ervaring en inzicht inschat
 dat de definiëring, ontwikkeltijd en uitvoering meer dan 8 uur in beslag neemt.
 
 1.13. Responsetijd: de tijd tussen de ontvangst door Bonaroo van de melding van de Storing
@@ -273,8 +273,10 @@ niet​ ​van​ ​toepassing.
 7.5.​ ​De​ ​Producten​ ​zullen​ ​tussen​ ​partijen​ ​gelden​ ​als​ ​geaccepteerd:
 
 7.5.1. bij​ ​de​ ​aflevering​ ​indien​ ​er​ ​geen​ ​acceptatieperiode​ ​van​ ​toepassing​ ​is;​ ​dan​ ​wel
+
 7.5.2. indien er een acceptatieperiode van toepassing is: op de eerste dag na de
 acceptatieperiode;​ ​dan​ ​wel
+
 7.5.3. indien Bonaroo een positief testrapport of melding ontvangt van acceptatie of bericht
 waaruit acceptatie op enige wijze volgt. Indien gedurende de acceptatieperiode blijkt
 dat Producten fouten of Storingen bevatten die de (voortgang van de) acceptatie
@@ -427,6 +429,7 @@ van samenhangende gebeurtenissen geldt als één gebeurtenis.
 
 11.5.1. De redelijke kosten, gemaakt ter vaststelling van de oorzaak en de omvang van de
 schade;
+
 11.5.2. De redelijke kosten, gemaakt ter voorkoming of beperking van schade, voor zover
 Cliënt aantoont dat deze kosten hebben geleid tot beperking van schade.
 
@@ -543,6 +546,7 @@ betrekking​ ​tot​ ​Derden​ ​Producten,​ ​tenzij​ ​schrifteli
 
 14.5.1. De service op Derden Producten, onder maximaal dezelfde voorwaarden die worden
 weergegeven​ ​in​ ​de​ ​Algemene​ ​Voorwaarden​ ​Derden.
+
 14.5.2. De garantie voor de termijn en onder maximaal dezelfde voorwaarden als
 weergegeven​ ​in​ ​de​ ​Algemene​ ​Voorwaarden​ ​Derden.
 
@@ -659,6 +663,7 @@ overeengekomen intensiteit/verwerkingseenheden en op het aantal overeengekomen
 apparaten, waarbij bij gebreke van schriftelijke afspraken met Bonaroo het
 gebruiksrecht beperkt tot de verwerkingseenheid waarop de Producten het eerst zijn
 geïnstalleerd en het aantal gebruikers, servers of hardware is beperkt tot 1 (één).
+
 16.7.2. indien Bonaroo in Producten beveiliging of restricties op aantallen verwerkingen,
 gebruikers of functionaliteit heeft aangebracht is het Cliënt niet toegestaan deze te
 omzeilen,​ ​verwijderen​ ​of​ ​het​ ​beoogde​ ​effect​ ​anderszins​ ​te​ ​ontnemen.
