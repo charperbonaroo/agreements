@@ -2,7 +2,7 @@
 
 Versie: 1.0
 
-Datum 06 - 11 - 2017
+Datum: 06 - 11 - 2017
 
 ## 1.​ ​Definities
 
@@ -83,7 +83,7 @@ de​ ​functionele​ ​aspecten​ ​van​ ​de​ ​Producten.
 1.17. Uitwijkprocedure: een uitgewerkt beleid en middelen waarover Cliënt beschikt om in
 het​ ​geval​ ​van​ ​Storingen​ ​het​ ​verstoorde​ ​bedrijfsproces​ ​op​ ​alternatieve​ ​wijze​ ​kan​ ​continueren.
 
-1.18. Werkdagen: normale Nederlandse werktijden ( 9. 00 - 17. 00 CET) op maandag t/m
+1.18. Werkdagen: normale Nederlandse werktijden ( 9.00 - 17.00 CET) op maandag t/m
 vrijdag,​ ​uitgezonderd​ ​nationale​ ​en​ ​in​ ​Nederland​ ​erkende​ ​feestdagen.
 
 1.19. Wijziging: een aanpassing in de Broncode die effect heeft op de functionaliteit,
@@ -422,7 +422,7 @@ lijden, dan door deze verzekering gedekt wordt en daadwerkelijk vergoed vermeerd
 Bonaroo’s​ ​eigen​ ​risico,​ ​tenzij​ ​er​ ​sprake​ ​is​ ​van​ ​opzet​ ​of​ ​bewuste​ ​roekeloosheid.
 
 11.4. De totale aansprakelijkheid van Bonaroo voor schade door dood of lichamelijk letsel
-zal in geen geval meer bedragen dan € 1. 000. 000 ,- (één miljoen euro), waarbij een reeks
+zal in geen geval meer bedragen dan € 1.000.000,- (één miljoen euro), waarbij een reeks
 van samenhangende gebeurtenissen geldt als één gebeurtenis.
 
 11.5.​ ​Onder​ ​directe​ ​schade​ ​wordt​ ​uitsluitend​ ​verstaan:
