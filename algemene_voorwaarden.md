@@ -271,20 +271,16 @@ productie-Omgeving gebeurt en de Producten reeds zijn geaccepteerd dan is voorga
 niet​ ​van​ ​toepassing.
 
 7.5.​ ​De​ ​Producten​ ​zullen​ ​tussen​ ​partijen​ ​gelden​ ​als​ ​geaccepteerd:
-
-7.5.1. bij​ ​de​ ​aflevering​ ​indien​ ​er​ ​geen​ ​acceptatieperiode​ ​van​ ​toepassing​ ​is;​ ​dan​ ​wel
-
-7.5.2. indien er een acceptatieperiode van toepassing is: op de eerste dag na de
-acceptatieperiode;​ ​dan​ ​wel
-
-7.5.3. indien Bonaroo een positief testrapport of melding ontvangt van acceptatie of bericht
+   1. bij​ ​de​ ​aflevering​ ​indien​ ​er​ ​geen​ ​acceptatieperiode​ ​van​ ​toepassing​ ​is;​ ​dan​ ​wel
+   1. indien er een acceptatieperiode van toepassing is: op de eerste dag na de
+      acceptatieperiode;​ ​dan​ ​wel
+   1. indien Bonaroo een positief testrapport of melding ontvangt van acceptatie of bericht
 waaruit acceptatie op enige wijze volgt. Indien gedurende de acceptatieperiode blijkt
 dat Producten fouten of Storingen bevatten die de (voortgang van de) acceptatie
 belemmeren, zal Cliënt Bonaroo binnen de acceptatieperiode over deze fouten of
 Storingen informeren door middel van een schriftelijk, gedetailleerd testrapport, in
 welk geval de nog resterende acceptatieperiode onderbroken wordt totdat het
-Product zodanig is aangepast dat de fouten zijn verholpen met uitzondering van
-kleine​ ​fouten​ ​zoals​ ​bepaald​ ​in
+Product zodanig is aangepast dat de fouten zijn verholpen.
 
 7.6. Acceptatie van de Producten mag niet worden onthouden op andere gronden dan die,
 welke verband houden met de tussen partijen uitdrukkelijk overeengekomen specificaties en
