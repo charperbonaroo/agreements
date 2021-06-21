@@ -24,7 +24,7 @@
 
 1. De resultaten van de Werkzaamheden worden door Bonaroo aangemerkt als deels  Maatwerk zoals gedefinieerd in de Algemene Voorwaarden van Bonaroo.
 
-1. Op deze Overeenkomst en alle door Bonaroo ten behoeve van XXX verrichtte en te verrichten werkzaamheden zijn de Algemene Voorwaarden van Bonaroo van toepassing. Een exemplaar daarvan is toegestuurd. Ook zijn deze te vinden op: www.bonaroo.nl/AlgemeneVoorwaarden_CB.pdf
+1. Op deze Overeenkomst en alle door Bonaroo ten behoeve van XXX verrichtte en te verrichten werkzaamheden zijn de Algemene Voorwaarden van Bonaroo van toepassing. Een exemplaar daarvan is toegestuurd. Ook zijn deze te vinden op: [Algemene Voorwaarden](https://github.com/charperbonaroo/agreements/blob/main/algemene_voorwaarden.md)
 
 ## Ondertekening
 
