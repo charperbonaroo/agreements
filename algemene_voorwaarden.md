@@ -1,12 +1,12 @@
 # Algemene​ ​Voorwaarden​ ​Charper​ ​Bonaroo​ ​B.V.
 
-Versie: 1.0
+Versie: 1.4
 
-Datum: 06 - 11 - 2017
+Datum: 04-26-2023
 
 ## 1.​ ​Definities
 
-In deze algemene voorwaarden worden een aantal begrippen gehanteerd in enkelvoud en 
+In deze algemene voorwaarden en overeenkomsten worden een aantal begrippen gehanteerd in enkelvoud en 
 meervoud die met een hoofdletter geschreven zijn en die de betekenis hebben zoals in dit
 artikel​ ​gedefinieerd.
 
