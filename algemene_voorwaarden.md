@@ -652,17 +652,15 @@ duurzaam​ ​opslaan​ ​van​ ​gegevens​ ​op​ ​een​ ​exempla
 
 16.7. Indien Bonaroo een gebruiksrecht via een licentie-constructie verstrekt geldt in
 aanvulling​ ​op​ ​de​ ​voorgaande​ ​leden​ ​het​ ​volgende:
-
-16.7.1. het daarin vervatte gebruiksrecht wordt beperkt tot uitsluitend het voor door Bonaroo
-toegestane gebruik aanwenden van de Producten op de met Bonaroo voor de
-overeengekomen intensiteit/verwerkingseenheden en op het aantal overeengekomen
-apparaten, waarbij bij gebreke van schriftelijke afspraken met Bonaroo het
-gebruiksrecht beperkt tot de verwerkingseenheid waarop de Producten het eerst zijn
-geïnstalleerd en het aantal gebruikers, servers of hardware is beperkt tot 1 (één).
-
-16.7.2. indien Bonaroo in Producten beveiliging of restricties op aantallen verwerkingen,
-gebruikers of functionaliteit heeft aangebracht is het Cliënt niet toegestaan deze te
-omzeilen,​ ​verwijderen​ ​of​ ​het​ ​beoogde​ ​effect​ ​anderszins​ ​te​ ​ontnemen.
+   1. het daarin vervatte gebruiksrecht wordt beperkt tot uitsluitend het voor door Bonaroo
+      toegestane gebruik aanwenden van de Producten op de met Bonaroo voor de
+      overeengekomen intensiteit/verwerkingseenheden en op het aantal overeengekomen
+      apparaten, waarbij bij gebreke van schriftelijke afspraken met Bonaroo het
+      gebruiksrecht beperkt tot de verwerkingseenheid waarop de Producten het eerst zijn
+      geïnstalleerd en het aantal gebruikers, servers of hardware is beperkt tot 1 (één).
+   2. indien Bonaroo in Producten beveiliging of restricties op aantallen verwerkingen,
+      gebruikers of functionaliteit heeft aangebracht is het Cliënt niet toegestaan deze te
+      omzeilen,​ ​verwijderen​ ​of​ ​het​ ​beoogde​ ​effect​ ​anderszins​ ​te​ ​ontnemen.
 
 ## 17.​ ​Overmacht
 

@@ -143,9 +143,7 @@ In these terms and conditions and agreements, a number of terms are used in sing
 
 9.6. Bonaroo is always entitled to place the name and logo of the Client and the project to which Bonaroo delivers and/or has delivered Products on its website, use it as a reference, and make it available to third parties for information purposes. The parties can agree in writing on further arrangements regarding the handling of project-specific data that the Client designates as confidential.
 
-##
-
- 10. Backup
+## 10. Backup
 
 10.1. Because no Environment is infallible, the Client must determine which data is eligible for backup and make the necessary provisions to minimize data loss and dependencies. Therefore, the Client is responsible for providing a Contingency Plan that is followed by its employees and periodically reviewed.
 
