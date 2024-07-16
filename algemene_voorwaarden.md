@@ -116,9 +116,9 @@ schriftelijk​ ​worden​ ​afgeweken​ ​door​ ​een​ ​bevoegd​ 
 7.4. Uitsluitend in het geval waar installatie door Bonaroo plaatsvindt en de Producten nog niet door Cliënt zijn geaccepteerd zal er onmiddellijk na voltooiing van de installatie een acceptatieperiode van toepassing zijn. Deze acceptatieperiode voor Cliënt bedraagt tien Werkdagen. Gedurende de acceptatieperiode is het Cliënt niet toegestaan de Producten voor productieve of operationele doeleinden te gebruiken. Indien de installatie op een productie-Omgeving gebeurt en de Producten reeds zijn geaccepteerd dan is voorgaande niet​ ​van​ ​toepassing.
 
 7.5.​ ​De​ ​Producten​ ​zullen​ ​tussen​ ​partijen​ ​gelden​ ​als​ ​geaccepteerd:
-   a. bij​ ​de​ ​aflevering​ ​indien​ ​er​ ​geen​ ​acceptatieperiode​ ​van​ ​toepassing​ ​is;​ ​dan​ ​wel
-   b. indien er een acceptatieperiode van toepassing is: op de eerste dag na de acceptatieperiode;​ ​dan​ ​wel
-   c. indien Bonaroo een positief testrapport of melding ontvangt van acceptatie of bericht waaruit acceptatie op enige wijze volgt. Indien gedurende de acceptatieperiode blijkt dat Producten fouten of Storingen bevatten die de (voortgang van de) acceptatie belemmeren, zal Cliënt Bonaroo binnen de acceptatieperiode over deze fouten of Storingen informeren door middel van een schriftelijk, gedetailleerd testrapport, in welk geval de nog resterende acceptatieperiode onderbroken wordt totdat het Product zodanig is aangepast dat de fouten zijn verholpen.
+   1. bij​ ​de​ ​aflevering​ ​indien​ ​er​ ​geen​ ​acceptatieperiode​ ​van​ ​toepassing​ ​is;​ ​dan​ ​wel
+   2. indien er een acceptatieperiode van toepassing is: op de eerste dag na de acceptatieperiode;​ ​dan​ ​wel
+   3. indien Bonaroo een positief testrapport of melding ontvangt van acceptatie of bericht waaruit acceptatie op enige wijze volgt. Indien gedurende de acceptatieperiode blijkt dat Producten fouten of Storingen bevatten die de (voortgang van de) acceptatie belemmeren, zal Cliënt Bonaroo binnen de acceptatieperiode over deze fouten of Storingen informeren door middel van een schriftelijk, gedetailleerd testrapport, in welk geval de nog resterende acceptatieperiode onderbroken wordt totdat het Product zodanig is aangepast dat de fouten zijn verholpen.
 
 7.6. Acceptatie van de Producten mag niet worden onthouden op andere gronden dan die, welke verband houden met de tussen partijen uitdrukkelijk overeengekomen specificaties en voorts niet wegens het bestaan van kleine fouten die operationele of productieve ingebruikname​ ​van​ ​de​ ​Producten​ ​redelijkerwijs​ ​niet​ ​in​ ​de​ ​weg​ ​staan.
 
@@ -182,8 +182,8 @@ deze​ ​periodiek​ ​te​ ​herzien.
 11.4. De totale aansprakelijkheid van Bonaroo voor schade door dood of lichamelijk letsel zal in geen geval meer bedragen dan € 1.000.000,- (één miljoen euro), waarbij een reeks van samenhangende gebeurtenissen geldt als één gebeurtenis.
 
 11.5.​ ​Onder​ ​directe​ ​schade​ ​wordt​ ​uitsluitend​ ​verstaan:
-    a. De redelijke kosten, gemaakt ter vaststelling van de oorzaak en de omvang van de schade
-    b. De redelijke kosten, gemaakt ter voorkoming of beperking van schade, voor zover Cliënt aantoont dat deze kosten hebben geleid tot beperking van schade.
+    1. De redelijke kosten, gemaakt ter vaststelling van de oorzaak en de omvang van de schade
+    2. De redelijke kosten, gemaakt ter voorkoming of beperking van schade, voor zover Cliënt aantoont dat deze kosten hebben geleid tot beperking van schade.
 
 11.6. Aansprakelijkheid van Bonaroo voor indirecte schade, daaronder begrepen gevolgschade, gederfde winst, gemiste besparingen, vernietiging of zoekraken van bestanden en/of gegevens, vertragingsschade, geleden verlies, schade veroorzaakt door het gebrekkig verschaffen van informatie en/of verlening van medewerking door Cliënt, schade door bedrijfsstagnatie of vorderingen van derden op Cliënt, is nadrukkelijk uitgesloten.
 
@@ -228,8 +228,8 @@ Voorwaarden Derden tenzij anders aangegeven. Bij strijd tussen de Algemene Voorw
 14.4. Er vindt door Bonaroo geen Onderhoud, Support dan wel andere diensten plaats met betrekking​ ​tot​ ​Derden​ ​Producten,​ ​tenzij​ ​schriftelijk​ ​anders​ ​overeengekomen.
 
 14.5.​ ​Met​ ​betrekking​ ​tot​ ​geleverde​ ​Derden​ ​Producten​ ​verzorgt​ ​Bonaroo:
-    a. De service op Derden Producten, onder maximaal dezelfde voorwaarden die worden weergegeven​ ​in​ ​de​ ​Algemene​ ​Voorwaarden​ ​Derden.
-    b. De garantie voor de termijn en onder maximaal dezelfde voorwaarden als weergegeven​ ​in​ ​de​ ​Algemene​ ​Voorwaarden​ ​Derden.
+    1. De service op Derden Producten, onder maximaal dezelfde voorwaarden die worden weergegeven​ ​in​ ​de​ ​Algemene​ ​Voorwaarden​ ​Derden.
+    2. De garantie voor de termijn en onder maximaal dezelfde voorwaarden als weergegeven​ ​in​ ​de​ ​Algemene​ ​Voorwaarden​ ​Derden.
 
 14.6. Onder geen beding zal vervanging van afgeleverde Derden Producten plaatsvinden, tenzij Cliënt dit uitdrukkelijk verzoekt en de daaraan verbonden kosten voldoet, zoals bijvoorbeeld overeengekomen in een Supportovereenkomst. Aan alle reparaties zijn behandelingskosten verbonden. Indien reparaties elders geschieden dan bij Bonaroo worden er tevens voorrijkosten, uurlonen en andere daaraan verbonden kosten in rekening gebracht.
 
@@ -266,8 +266,8 @@ Voorwaarden Derden tenzij anders aangegeven. Bij strijd tussen de Algemene Voorw
 16.6. Het is Cliënt toegestaan Back-ups te maken van zijn gegevens op de ter beschikking gestelde Producten, indien een Back-up niet ter beschikking wordt gesteld door Bonaroo en mits de Back-ups niet gebruikt worden door Cliënt voor andere doeleinden dan het duurzaam​ ​opslaan​ ​van​ ​gegevens​ ​op​ ​een​ ​exemplaar​ ​voor​ ​archiefdoeleinden.
 
 16.7. Indien Bonaroo een gebruiksrecht via een licentie-constructie verstrekt geldt in aanvulling​ ​op​ ​de​ ​voorgaande​ ​leden​ ​het​ ​volgende:
-   a. het daarin vervatte gebruiksrecht wordt beperkt tot uitsluitend het voor door Bonaroo toegestane gebruik aanwenden van de Producten op de met Bonaroo voor de overeengekomen intensiteit/verwerkingseenheden en op het aantal overeengekomen apparaten, waarbij bij gebreke van schriftelijke afspraken met Bonaroo het gebruiksrecht beperkt tot de verwerkingseenheid waarop de Producten het eerst zijn geïnstalleerd en het aantal gebruikers, servers of hardware is beperkt tot 1 (één).
-   b. indien Bonaroo in Producten beveiliging of restricties op aantallen verwerkingen, gebruikers of functionaliteit heeft aangebracht is het Cliënt niet toegestaan deze te omzeilen,​ ​verwijderen​ ​of​ ​het​ ​beoogde​ ​effect​ ​anderszins​ ​te​ ​ontnemen.
+   1. het daarin vervatte gebruiksrecht wordt beperkt tot uitsluitend het voor door Bonaroo toegestane gebruik aanwenden van de Producten op de met Bonaroo voor de overeengekomen intensiteit/verwerkingseenheden en op het aantal overeengekomen apparaten, waarbij bij gebreke van schriftelijke afspraken met Bonaroo het gebruiksrecht beperkt tot de verwerkingseenheid waarop de Producten het eerst zijn geïnstalleerd en het aantal gebruikers, servers of hardware is beperkt tot 1 (één).
+   2. indien Bonaroo in Producten beveiliging of restricties op aantallen verwerkingen, gebruikers of functionaliteit heeft aangebracht is het Cliënt niet toegestaan deze te omzeilen,​ ​verwijderen​ ​of​ ​het​ ​beoogde​ ​effect​ ​anderszins​ ​te​ ​ontnemen.
 
 ## 17.​ ​Overmacht
 
