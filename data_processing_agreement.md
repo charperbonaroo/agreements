@@ -8,7 +8,7 @@
 ## Whereas
 - Parties have entered into an agreement, hereinafter referred to as the Main Agreement on the basis of which Bonaroo performs work and/or provides services, hereinafter collectively referred to as the Work
 - when performing the Work it is possible that Bonaroo processes Personal Data on behalf of ____________, whereby Bonaroo acts as processor and _________________________ as Data Controller
-- Personal data, Processor and Data Controller have the meaning as defined in EU Directive 95/46/EC and the General Data Protection Regulation 2016/679/EU, hereinafter the Legislation
+- Personal data, Processor and Data Controller have the meaning as defined in the General Data Protection Regulation 2016/679/EU, hereinafter the Legislation
 - In view of the above considerations, the parties have agreed to enter into this Data Processing Agreement.
 
 ## Parties agree as follows
