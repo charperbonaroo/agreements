@@ -1,8 +1,8 @@
 # General Terms and Conditions Charper Bonaroo B.V.
 
-Version: 1.4
+Version: 1.5
 
-Date: 15-07-2024
+Date: 16-07-2024
 
 ## 1. Definitions
 
@@ -113,9 +113,9 @@ In these terms and conditions and agreements, a number of terms are used in sing
 7.4. Only if installation is carried out by Bonaroo and the Products have not yet been accepted by the Client, an acceptance period applies immediately after the installation is completed. This acceptance period for the Client is ten Working Days. During the acceptance period, the Client is not allowed to use the Products for productive or operational purposes. If installation occurs in a production Environment and the Products have already been accepted, the above does not apply.
 
 7.5. The Products are considered accepted between the parties:
-   a. upon delivery if no acceptance period applies; or
-   b. if an acceptance period applies: on the first day after the acceptance period; or
-   c. if Bonaroo receives a positive test report or acceptance notification or a message from which acceptance follows in any way. If it appears during the acceptance period that the Products contain errors or Malfunctions that impede the (progress of) acceptance, the Client will inform Bonaroo of these errors or Malfunctions within the acceptance period through a written, detailed test report, in which case the remaining acceptance period is interrupted until the Product is adjusted to correct the errors.
+   1. upon delivery if no acceptance period applies; or
+   2. if an acceptance period applies: on the first day after the acceptance period; or
+   3. if Bonaroo receives a positive test report or acceptance notification or a message from which acceptance follows in any way. If it appears during the acceptance period that the Products contain errors or Malfunctions that impede the (progress of) acceptance, the Client will inform Bonaroo of these errors or Malfunctions within the acceptance period through a written, detailed test report, in which case the remaining acceptance period is interrupted until the Product is adjusted to correct the errors.
 
 7.6. Acceptance of the Products cannot be withheld on grounds other than those related to the explicitly agreed specifications between the parties and furthermore not due to the existence of minor errors that do not reasonably impede the operational or productive use of the Products.
 
@@ -176,8 +176,8 @@ In these terms and conditions and agreements, a number of terms are used in sing
 11.4. Bonaroo's total liability for damage caused by death or physical injury will in no case exceed € 1,000,000 (one million euros), where a series of related events counts as one event.
 
 11.5. Direct damage exclusively means:
-   a. The reasonable costs incurred to determine the cause and extent of the damage;
-   b. The reasonable costs incurred to prevent or limit damage, provided the Client demonstrates that these costs have led to limiting damage.
+   1. The reasonable costs incurred to determine the cause and extent of the damage;
+   2. The reasonable costs incurred to prevent or limit damage, provided the Client demonstrates that these costs have led to limiting damage.
 
 11.6. Bonaroo is not liable for indirect damage, including but not limited to consequential damage, lost profit, missed savings, destruction or loss of files and/or data, delay damage, loss suffered, damage caused by providing incorrect information and/or cooperation by the Client, damage due to business stagnation, or claims from third parties on the Client.
 
@@ -220,8 +220,8 @@ In these terms and conditions and agreements, a number of terms are used in sing
 14.4. Bonaroo does not provide Maintenance, Support, or other services concerning Third-Party Products unless otherwise agreed in writing.
 
 14.5. Regarding delivered Third-Party Products, Bonaroo provides:
-   a. Service on Third-Party Products under a maximum of the same conditions specified in the General Terms and Conditions of Third Parties.
-   b. The warranty for the term and under a maximum of the same conditions specified in the General Terms and Conditions of Third Parties.
+   1. Service on Third-Party Products under a maximum of the same conditions specified in the General Terms and Conditions of Third Parties.
+   2. The warranty for the term and under a maximum of the same conditions specified in the General Terms and Conditions of Third Parties.
 
 14.6. Replacement of delivered Third-Party Products will not take place under any circumstances unless the Client expressly requests this and pays the associated costs, as agreed, for example, in a Support agreement. All repairs are subject to handling costs. If repairs are made elsewhere than at Bonaroo, travel costs, labor costs, and other associated costs will also be charged.
 
@@ -260,8 +260,8 @@ In these terms and conditions and agreements, a number of terms are used in sing
 16.6. The Client is allowed to make backups of its data on the provided Products if a backup is not provided by Bonaroo and provided the backups are not used by the Client for purposes other than the permanent storage of data in a single copy for archival purposes.
 
 16.7. If Bonaroo provides a usage right through a license construct, the following applies in addition to the previous paragraphs:
-   a. The usage right contained therein is limited to using the Products for the permitted use agreed with Bonaroo for the agreed intensity/processing units and on the number of agreed devices, where in the absence of written agreements with Bonaroo, the usage right is limited to the processing unit on which the Products were first installed, and the number of users, servers, or hardware is limited to one (1).
-   b. If Bonaroo has implemented security or restrictions on the number of processes, users, or functionality in Products, the Client is not allowed to bypass, remove, or otherwise nullify these.
+   1. The usage right contained therein is limited to using the Products for the permitted use agreed with Bonaroo for the agreed intensity/processing units and on the number of agreed devices, where in the absence of written agreements with Bonaroo, the usage right is limited to the processing unit on which the Products were first installed, and the number of users, servers, or hardware is limited to one (1).
+   2. If Bonaroo has implemented security or restrictions on the number of processes, users, or functionality in Products, the Client is not allowed to bypass, remove, or otherwise nullify these.
 
 ## 17. Force Majeure
 
