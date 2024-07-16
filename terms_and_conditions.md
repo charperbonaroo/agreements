@@ -2,7 +2,7 @@
 
 Version: 1.4
 
-Date: 04-26-2023
+Date: 15-07-2024
 
 ## 1. Definitions
 
@@ -48,6 +48,12 @@ In these terms and conditions and agreements, a number of terms are used in sing
 
 1.20. Software as a Service: a service consisting of providing functionality remotely via electronic means.
 
+1.21. GDPR: General Data Protection Regulation, EU 2016/679.
+
+1.22. Personal Data, Data Processing Agreement, Processor, Data Controller, Data Protection Officer: terms as defined in the GDPR.
+
+1.23. Breach: a breach of security and/or confidentiality, leading to the destruction, loss, alteration, unauthorized disclosure of, or unauthorized access to Personal Data.
+
 ## 2. Offers and Agreements
 
 2.1. These General Terms and Conditions apply to all offers, legal relationships, and agreements whereby Bonaroo supplies Products to the Client. Applicability of purchase or other terms and conditions of the Client is expressly rejected.
@@ -80,11 +86,9 @@ In these terms and conditions and agreements, a number of terms are used in sing
 
 ## 5. Flexible Nature of the Service
 
-5.1. Bonaroo aims to allow the Client to optimally enjoy the agreed Products considering the circumstances. The needs of the Client, Bonaroo, and the world
+5.1. Bonaroo aims to allow the Client to optimally enjoy the agreed Products considering the circumstances. The needs of the Client, Bonaroo, and the world in which the parties operate are not static. Bonaroo is open to the Client's requests for changes in Products and will indicate what is needed to meet these requests. The Client gives Bonaroo prior permission to adjust its Products during delivery in response to changes in technology, Bonaroo's business operations, and legislation.
 
- in which the parties operate are not static. Bonaroo is open to the Client's requests for changes in Products and will indicate what is needed to meet these requests. The Client gives Bonaroo prior permission to adjust its Products during delivery in response to changes in technology, Bonaroo's business operations, and legislation.
-
-5.2. Bonaroo may make adjustments to the Products concerning but not limited to: changing elements, persons, and suppliers to deliver the agreed Products, procedures for delivery, functionality, security requirements, and measures resulting from legal obligations. Bonaroo always considers the quality of the service to the Client and tries to prevent inconvenience, while the Client adopts a cooperative attitude and will not refuse adjustments unless the Client demonstrates that the functionality and quality of the Products have materially deteriorated (or will deteriorate) due to the adjustment.
+5.2. Bonaroo may make adjustments to the Products concerning but not limited to: changing elements, people, and suppliers to deliver the agreed Products, procedures for delivery, functionality, security requirements, and measures resulting from legal obligations. Bonaroo always considers the quality of the service to the Client and tries to prevent inconvenience, while the Client adopts a cooperative attitude and will not refuse adjustments unless the Client demonstrates that the functionality and quality of the Products have materially deteriorated (or will deteriorate) due to the adjustment.
 
 5.3. Bonaroo prefers to make adjustments to Products in consultation. Based on changes, Bonaroo may inform the Client about technological developments and possibilities for Products without obligation. The Client will keep Bonaroo informed of its (changing) needs and the services it intends to implement or connect in any way for its communication and information systems.
 
@@ -109,9 +113,9 @@ In these terms and conditions and agreements, a number of terms are used in sing
 7.4. Only if installation is carried out by Bonaroo and the Products have not yet been accepted by the Client, an acceptance period applies immediately after the installation is completed. This acceptance period for the Client is ten Working Days. During the acceptance period, the Client is not allowed to use the Products for productive or operational purposes. If installation occurs in a production Environment and the Products have already been accepted, the above does not apply.
 
 7.5. The Products are considered accepted between the parties:
-   1. upon delivery if no acceptance period applies; or
-   2. if an acceptance period applies: on the first day after the acceptance period; or
-   3. if Bonaroo receives a positive test report or acceptance notification or a message from which acceptance follows in any way. If it appears during the acceptance period that the Products contain errors or Malfunctions that impede the (progress of) acceptance, the Client will inform Bonaroo of these errors or Malfunctions within the acceptance period through a written, detailed test report, in which case the remaining acceptance period is interrupted until the Product is adjusted to correct the errors.
+   a. upon delivery if no acceptance period applies; or
+   b. if an acceptance period applies: on the first day after the acceptance period; or
+   c. if Bonaroo receives a positive test report or acceptance notification or a message from which acceptance follows in any way. If it appears during the acceptance period that the Products contain errors or Malfunctions that impede the (progress of) acceptance, the Client will inform Bonaroo of these errors or Malfunctions within the acceptance period through a written, detailed test report, in which case the remaining acceptance period is interrupted until the Product is adjusted to correct the errors.
 
 7.6. Acceptance of the Products cannot be withheld on grounds other than those related to the explicitly agreed specifications between the parties and furthermore not due to the existence of minor errors that do not reasonably impede the operational or productive use of the Products.
 
@@ -129,19 +133,29 @@ In these terms and conditions and agreements, a number of terms are used in sing
 
 8.4. In Hosting, a Malfunction must be located within the hosted Environment.
 
-## 9. Client's Data
+## 9. Client Data
 
-9.1. The Client owns its own information and (personal) data (hereinafter: data) and is thus responsible for protecting data that is transmitted, processed, or stored by Bonaroo Products. Bonaroo is not a processor nor responsible for the Client's data in the sense of the Data Protection Act. Bonaroo provides Products and can help set them up so that the Client can create, process, and store its data.
+9.1. The Client owns its own information and (Personal) Data and is thus responsible for the protection of data that is transmitted, processed, or stored by Bonaroo Products. The GDPR only applies when Bonaroo processes Personal Data on behalf of the Client or its customers under an Agreement. Bonaroo provides Products and can assist in setting them up so that the Client is able to create, edit, and store its data.
 
-9.2. Insofar as Bonaroo would process personal data on behalf of the Client within the framework of the agreement, Bonaroo is only regarded as a 'processor' for those processes and the Client as a 'controller' in the sense of the Data Protection Act (WBP). In that case, these Terms and Conditions also serve as a processing agreement in the sense of the WBP. The responsibility for complying with the applicable WBP obligations, such as the information obligation, access and correction rights, etc., regarding personal data always remains entirely and solely with the controller. The Client ensures that it always has the required consent from data subjects for all processing of personal data carried out by Bonaroo as a processor.
+9.2. Insofar as Bonaroo processes Personal Data on behalf of the Client, Bonaroo is designated as the Processor solely for those operations, and the Client as the Data Controller. Bonaroo processes Personal Data solely in a manner and to the extent necessary for performing the agreed-upon tasks, to follow the Client's instructions, or as a result of a legal obligation, enforceable judgment, or statutory regulation. In these cases, these Terms shall also serve as a Data Processing Agreement.
 
-9.3. Except for what is stated in the first paragraph, Bonaroo remains responsible for protecting personal data as specified in 9.2, whose use by Bonaroo is necessary for the proper execution of the agreement, and it will indemnify the Client against liability if the Client is legally addressed by a natural person for an infringement of privacy as a result of an act or omission by Bonaroo in compliance with article 11. The Client indemnifies Bonaroo against all claims for infringement of privacy in any way related to the data and products provided by the Client.
+9.3. The responsibility for complying with applicable GDPR obligations, such as the Duty to Inform, Rights of Access, Blocking, and Correction regarding Personal Data, remains entirely with the Client. The Client guarantees and ensures that it always has the required consent from data subjects for all operations on Personal Data carried out by Bonaroo as Processor. The Client is solely responsible for the accuracy, quality, and legality of the Personal Data and the means by which the Client acquired the Personal Data.
 
-9.4. The Client is aware that privacy regulations may change in the future or that the nature of the service may necessitate additional measures and informs itself accordingly. If necessary, the parties will consult to make appropriate arrangements about the applicable rights and obligations arising from (future) legislation.
+9.4. Insofar as Bonaroo processes Personal Data for the Client, the purposes for which this Personal Data is processed, the nature of the Personal Data, the categories of data subjects, the duration of processing, and the applicable legal obligations shall be documented in writing by the Client and provided to Bonaroo.
 
-9.5. Insofar as the Client is entitled to and necessary for the agreement, the Client expressly consents to the inclusion of (personal) data of users in Bonaroo's personal registration for administrative and management purposes. This personal registration includes identification data and data for the execution of the agreement and is only accessible to Bonaroo. This data is not provided to third parties, except with the Client's consent or in cases where Bonaroo is required by law or court order to do so.
+9.5. The transfer of Personal Data by Bonaroo to a country outside the European Economic Area can only occur if permitted under the GDPR. Bonaroo will always enter into the necessary agreements regarding such transfer and comply with all requirements as stipulated in the GDPR.
 
-9.6. Bonaroo is always entitled to place the name and logo of the Client and the project to which Bonaroo delivers and/or has delivered Products on its website, use it as a reference, and make it available to third parties for information purposes. The parties can agree in writing on further arrangements regarding the handling of project-specific data that the Client designates as confidential.
+9.6. The Client has the right to request Bonaroo to take reasonable additional security measures to protect the Personal Data. If these measures fall outside Bonaroo's standard or agreed-upon measures, the Client shall reimburse Bonaroo for any additional costs incurred as a result, in addition to the agreed-upon compensation.
+
+9.7. The Client acknowledges and agrees that Bonaroo may subcontract (a portion of) the processing of Personal Data to third parties. Bonaroo ensures that the sub-processor is bound by similar confidentiality obligations as those included in these Terms.
+
+9.8. Bonaroo will take technical and organizational measures to secure the processing of Personal Data. These measures include, among others: measures to ensure that only employees can access Personal Data for the purposes of the Tasks and measures to protect the Personal Data against unauthorized or unlawful processing, and against accidental loss, destruction, or damage.
+
+9.9. Bonaroo will notify the Client as soon as reasonably possible after discovering a Breach. Bonaroo will cooperate with the Client and follow the Client's reasonable instructions regarding a Breach to enable the Client to investigate the incident. Insofar as the Breach was caused by Bonaroo's non-compliance with the requirements of these Terms, Bonaroo will make reasonable efforts to identify the Breach and take appropriate further steps. Breach notifications will be directed to a Data Protection Officer designated in writing for this purpose by the Client. The Client may request Bonaroo to change the Data Protection Officer through a written request. The change will take effect upon written confirmation by Bonaroo.
+
+9.10. Insofar as the Client is entitled to do so and as necessary in the context of the agreement, the Client expressly consents to the inclusion of users' (personal) data in Bonaroo's personal records for administration and management purposes. This personal record includes, among other things, identification data and data for the execution of the agreement and is only accessible to Bonaroo. This data will not be provided to third parties, except with the Client's consent or in cases where Bonaroo is required by law or a court order.
+
+9.11. Bonaroo is always entitled to place the name and logo of the Client and the project to which Bonaroo supplies and/or has supplied Products on its website, to use them as a reference, and to make them available to third parties for informational purposes. The parties may agree in writing on further arrangements regarding the handling of project-specific data that the Client designates as confidential.
 
 ## 10. Backup
 
@@ -162,8 +176,8 @@ In these terms and conditions and agreements, a number of terms are used in sing
 11.4. Bonaroo's total liability for damage caused by death or physical injury will in no case exceed € 1,000,000 (one million euros), where a series of related events counts as one event.
 
 11.5. Direct damage exclusively means:
-   11.5.1. The reasonable costs incurred to determine the cause and extent of the damage;
-   11.5.2. The reasonable costs incurred to prevent or limit damage, provided the Client demonstrates that these costs have led to limiting damage.
+   a. The reasonable costs incurred to determine the cause and extent of the damage;
+   b. The reasonable costs incurred to prevent or limit damage, provided the Client demonstrates that these costs have led to limiting damage.
 
 11.6. Bonaroo is not liable for indirect damage, including but not limited to consequential damage, lost profit, missed savings, destruction or loss of files and/or data, delay damage, loss suffered, damage caused by providing incorrect information and/or cooperation by the Client, damage due to business stagnation, or claims from third parties on the Client.
 
@@ -206,8 +220,8 @@ In these terms and conditions and agreements, a number of terms are used in sing
 14.4. Bonaroo does not provide Maintenance, Support, or other services concerning Third-Party Products unless otherwise agreed in writing.
 
 14.5. Regarding delivered Third-Party Products, Bonaroo provides:
-   1. Service on Third-Party Products under a maximum of the same conditions specified in the General Terms and Conditions of Third Parties.
-   2. The warranty for the term and under a maximum of the same conditions specified in the General Terms and Conditions of Third Parties.
+   a. Service on Third-Party Products under a maximum of the same conditions specified in the General Terms and Conditions of Third Parties.
+   b. The warranty for the term and under a maximum of the same conditions specified in the General Terms and Conditions of Third Parties.
 
 14.6. Replacement of delivered Third-Party Products will not take place under any circumstances unless the Client expressly requests this and pays the associated costs, as agreed, for example, in a Support agreement. All repairs are subject to handling costs. If repairs are made elsewhere than at Bonaroo, travel costs, labor costs, and other associated costs will also be charged.
 
@@ -246,8 +260,8 @@ In these terms and conditions and agreements, a number of terms are used in sing
 16.6. The Client is allowed to make backups of its data on the provided Products if a backup is not provided by Bonaroo and provided the backups are not used by the Client for purposes other than the permanent storage of data in a single copy for archival purposes.
 
 16.7. If Bonaroo provides a usage right through a license construct, the following applies in addition to the previous paragraphs:
-   1. The usage right contained therein is limited to using the Products for the permitted use agreed with Bonaroo for the agreed intensity/processing units and on the number of agreed devices, where in the absence of written agreements with Bonaroo, the usage right is limited to the processing unit on which the Products were first installed, and the number of users, servers, or hardware is limited to one (1).
-   2. If Bonaroo has implemented security or restrictions on the number of processes, users, or functionality in Products, the Client is not allowed to bypass, remove, or otherwise nullify these.
+   a. The usage right contained therein is limited to using the Products for the permitted use agreed with Bonaroo for the agreed intensity/processing units and on the number of agreed devices, where in the absence of written agreements with Bonaroo, the usage right is limited to the processing unit on which the Products were first installed, and the number of users, servers, or hardware is limited to one (1).
+   b. If Bonaroo has implemented security or restrictions on the number of processes, users, or functionality in Products, the Client is not allowed to bypass, remove, or otherwise nullify these.
 
 ## 17. Force Majeure
 
