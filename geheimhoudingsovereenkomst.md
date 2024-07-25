@@ -1,4 +1,4 @@
-# Akte van Overdracht
+# Geheimhoudingsovereenkomst
 
 ## Partijen
 
@@ -7,6 +7,6 @@
 
 ## Overwegende dat
 
- - Partijen potentiele zakelijke transacties wensen te onderzoeken en hiertoe bepaalde vertrouwlijke informatie wensen uit te wisselen, dit om een ligitiem zakelijk doel (Het Doel) na te streven.
+ - Partijen potentiele zakelijke transacties wensen te onderzoeken en hiertoe bepaalde vertrouwelijke informatie wensen uit te wisselen, dit om een legitiem zakelijk doel (Het Doel) na te streven.
  - Het Doel van deze overeenkomst is __________________________________________________________________________
  - 
