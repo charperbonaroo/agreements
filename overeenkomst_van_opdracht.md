@@ -15,14 +15,14 @@
 
 ## Komen als volgt overeen
 1. Partijen verbinden zich aan uitvoering van de Werkzaamheden door Bonaroo, zoals nader omschreven in bijlage A: Specificaties.
-1. Deze Overeenkomst treedt in werking op de dag van ondertekening en wordt aangegaan voor de duur van de Werkzaamheden.
+1. Deze Overeenkomst treedt in werking op de dag van ondertekening en wordt aangegaan tot 31 december ________.
 1. Oplevering van de resultaten van de Werkzaamheden zal op zijn laatst plaatsvinden op _____________________.
 1.
    1. Voor de Werkzaamheden ontvangt Bonaroo een vergoeding ___________________ ______________________________, hierna  te noemen de Vergoeding, te vermeerderen met de BTW.
    1. Betaling van de verschuldigde Vergoeding door XXX aan Bonaroo vindt plaats als volgt: _______________________________
    1. Betaling vindt plaats op bankrekeningnummer NL59RABO0314070540 t.n.v. Charper Bonaroo B.V.
 
-1. De resultaten van de Werkzaamheden worden door Bonaroo aangemerkt als deels  Maatwerk zoals gedefinieerd in de Algemene Voorwaarden van Bonaroo.
+1. De resultaten van de Werkzaamheden worden door Bonaroo aangemerkt als deels Maatwerk zoals gedefinieerd in de Algemene Voorwaarden van Bonaroo.
 
 1. Op deze Overeenkomst en alle door Bonaroo ten behoeve van XXX verrichtte en te verrichten werkzaamheden zijn de Algemene Voorwaarden van Bonaroo van toepassing. Een exemplaar daarvan is toegestuurd. Ook zijn deze te vinden op: [Algemene Voorwaarden](https://github.com/charperbonaroo/agreements/blob/main/algemene_voorwaarden.md)
 
