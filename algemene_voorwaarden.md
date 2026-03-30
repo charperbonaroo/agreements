@@ -1,8 +1,8 @@
 # Algemene Voorwaarden Charper Bonaroo B.V.
 
-Versie: 1.5
+Versie: 1.6
 
-Datum: 16-07-2024
+Datum: 23-03-2026
 
 ## 1. Definities
 
@@ -53,7 +53,7 @@ randapparatuur waarop een variant van een Product draait, mee communiceert of op
 
 1.22. Persoonsgegevens, Verwerkersovereenkomst, Verwerker, Verwerkingsverantwoordelijke, Functionaris Gegevensbescherming: termen zoals zoals gedefinieerd in de AVG.
 
-1.23. Inbreuk: een inbreuk op de beveiliging en/ofvertrouwelijkheid, leidend tot de vernietiging, het verlies, de wijziging of de ongeoorloofde verstrekking van of de ongeoorloofde toegang tot Persoonsgegevens.
+1.23. Inbreuk: een inbreuk op de beveiliging en/of vertrouwelijkheid, leidend tot de vernietiging, het verlies, de wijziging of de ongeoorloofde verstrekking van of de ongeoorloofde toegang tot Persoonsgegevens.
 
 ## 2. Aanbiedingen en overeenkomsten
 
@@ -140,7 +140,7 @@ schriftelijk worden afgeweken door een bevoegd vertegenwoordiger van Bonaroo.
 
 9.1. Cliënt is eigenaar van haar eigen informatie en (Persoons-)gegevens en draagt aldus zelf verantwoordelijkheid voor de bescherming van gegevens die worden verzonden, bewerkt, of opgeslagen door Producten van Bonaroo. Enkel wanneer Bonaroo Persoonsgegevens in opdracht van Cliënt of haar klanten verwerkt op grond van een Overeenkomst geldt de AVG. Bonaroo levert Producten en kan helpen deze in te stellen, zodat Cliënt in staat is zijn gegevens te maken, bewerken en opslaan.
 
-9.2. Voor zover Bonaroo Persoonsgegevens ten behoeve van Cliënt verwerken, wordt Bonaroo uitsluitend voor die bewerkingen als Verwerker en Cliënt Verwerkingsverantwoordelijke aangemerkt. Bonaroo verwerkt Persoongegevens uitsluitend op een manier en voor zover nodig is voor het uitvoeren van de overeengekomen werkzaamheden, om aanwijzingen van Cliënt op te volgen, of als gevolg van een wettelijke verplichting, executoriaal vonnis of wettelijk voorschrift. Hierbij zullen deze Voorwaarden tevens gelden als Verwerkersovereenkomst.
+9.2. Voor zover Bonaroo Persoonsgegevens ten behoeve van Cliënt verwerkt, wordt Bonaroo uitsluitend voor die bewerkingen als Verwerker en Cliënt Verwerkingsverantwoordelijke aangemerkt. Bonaroo verwerkt Persoonsgegevens uitsluitend op een manier en voor zover nodig is voor het uitvoeren van de overeengekomen werkzaamheden, om aanwijzingen van Cliënt op te volgen, of als gevolg van een wettelijke verplichting, executoriaal vonnis of wettelijk voorschrift. Indien de aard en omvang van de verwerking dit vereist, sluiten partijen een afzonderlijke Verwerkersovereenkomst die voldoet aan de eisen van artikel 28 lid 3 AVG.
 
 9.3. De verantwoordelijkheid voor naleving van de toepasselijke verplichtingen van de AVG, zoals de Informatieplicht, Inzage-, Blokkerings en Correctierechten enz. inzake Persoonsgegevens blijven steeds geheel en alleen bij Cliënt. Cliënt staat er voor in en zorgt dat zij steeds beschikt over de vereiste toestemming van betrokkenen voor alle bewerkingen op Persoonsgegevens die Bonaroo uitvoert als Verwerker. Cliënt is bij uitsluiting verantwoordelijk voor de juistheid, kwaliteit en rechtmatigheid van de Persoonsgegevens en de manieren waarop Cliënt de Persoonsgegevens heeft verkregen.
 
@@ -152,15 +152,17 @@ schriftelijk worden afgeweken door een bevoegd vertegenwoordiger van Bonaroo.
 beveiligingsmaatregelen te nemen ter bescherming van de Persoonsgegevens. Als deze maatregelen buiten de door Bonaroo standaard gehanteerde of overeengekomen maatregelen vallen dan vergoedt Cliënt de kosten die Bonaroo als gevolg
 daarvan extra maakt, in aanvulling op de overeengekomen vergoeding.
 
-9.7. Cliënt erkent en stemt ermee in dat Bonaroo (een deel van) de verwerking van Persoonsgegevens kan uitbesteden aan derden. Bonaroo zorgt ervoor dat de subverwerker gebonden is aan soortgelijke geheimhoudingsverplichtingen als die welke zijn opgenomen in deze Voorwaarden.
+9.7. Cliënt erkent en stemt ermee in dat Bonaroo (een deel van) de verwerking van Persoonsgegevens kan uitbesteden aan subverwerkers. Bonaroo houdt een actuele lijst bij van subverwerkers en stelt Cliënt ten minste dertig dagen voorafgaand aan de inschakeling van een nieuwe subverwerker schriftelijk op de hoogte. Indien Cliënt gemotiveerd bezwaar maakt tegen een voorgenomen subverwerker, treden partijen in overleg om tot een redelijke oplossing te komen. Bonaroo zorgt ervoor dat iedere subverwerker gebonden is aan ten minste gelijkwaardige verplichtingen inzake gegevensbescherming en geheimhouding als die welke zijn opgenomen in deze Voorwaarden.
 
-9.8. Bonaroo zal technische en organisatorische maatregelen nemen voor de beveiliging van de verwerking van de Persoonsgegevens. Deze maatregelen bestaan onder andere uit: maatregelen om ervoor te zorgen dat uitsluitend medewerkers toegang tot de Persoonsgegevens kunnen verkrijgen ten behoeve van de Werkzaamheden en  maatregelen om de Persoonsgegevens te beschermen tegen ongeoorloofde of  onrechtmatige verwerking, en tegen onopzettelijk verlies, vernietiging of beschadiging.
+9.8. Bonaroo zal technische en organisatorische maatregelen nemen voor de beveiliging van de verwerking van de Persoonsgegevens. Deze maatregelen bestaan onder andere uit: maatregelen om ervoor te zorgen dat uitsluitend medewerkers toegang tot de Persoonsgegevens kunnen verkrijgen ten behoeve van de Werkzaamheden en maatregelen om de Persoonsgegevens te beschermen tegen ongeoorloofde of onrechtmatige verwerking, en tegen onopzettelijk verlies, vernietiging of beschadiging.
 
 9.9. Bonaroo zal Cliënt zo snel als redelijkerwijs mogelijk is na de ontdekking van een Inbreuk hiervan in kennis stellen. Bonaroo zal zijn medewerking aan Cliënt verlenen en de redelijke aanwijzingen van Cliënt opvolgen met betrekking tot een Inbreuk, teneinde Cliënt in staat te stellen een onderzoek naar het incident in te stellen. Voor zover de Inbreuk werd veroorzaakt door niet-naleving van de vereisten van deze Voorwaarden door Bonaroo, zal Bonaroo redelijke inspanningen verrichten om de Inbreuk te identificeren en passende verdere stappen te ondernemen. Kennisgevingen van Inbreuk zullen worden gericht aan een schriftelijk voor dit doeleinde vastgesteld Functionaris Gegevensbescherming van Cliënt. Cliënt kan Bonaroo verzoeken om wijziging van de Functionaris Gegevensbescherming door middel van een schriftelijk verzoek. De wijziging gaat in na schriftelijke bevestiging door Bonaroo.
 
 9.10. Voor zover Cliënt daartoe gerechtigd is en voorzover nodig in het kader van de overeenkomst, stemt Cliënt uitdrukkelijk in met het opnemen van (persoons- )gegevens van gebruikers in de persoonsregistratie van Bonaroo voor doeleinden van administratie en beheer. Deze persoonsregistratie bevat onder meer identificatiegegevens en gegevens voor uitvoering van de overeenkomst en is slechts toegankelijk voor Bonaroo. Deze gegevens worden niet aan derden verstrekt, behoudens toestemming van Cliënt of in de gevallen wanneer Bonaroo hier krachtens de wet of een rechterlijke uitspraak toe verplicht is.
 
 9.11. Bonaroo is steeds gerechtigd de naam en het logo van Cliënt en het project waaraan Bonaroo Producten levert en/of heeft geleverd op haar website te plaatsen, te gebruiken als referentie en deze aan derden ter informatie beschikbaar te stellen. Partijen kunnen schriftelijk nadere afspraken overeenkomen ten aanzien van de omgang met project-specifieke gegevens die Cliënt aanwijst als vertrouwelijk.
+
+9.12. Na beëindiging van de overeenkomst, om welke reden dan ook, zal Bonaroo op verzoek van Cliënt alle Persoonsgegevens die Bonaroo als Verwerker onder zich heeft aan Cliënt retourneren in een gangbaar, machineleesbaar formaat, dan wel deze vernietigen, een en ander naar keuze van Cliënt. Bonaroo zal na retournering of vernietiging geen kopieën van de Persoonsgegevens bewaren, tenzij bewaring vereist is op grond van toepasselijke wet- of regelgeving. Cliënt dient dit verzoek binnen dertig dagen na beëindiging van de overeenkomst in te dienen; bij gebreke daarvan is Bonaroo gerechtigd de Persoonsgegevens te vernietigen.
 
 ## 10. Back-up
 
@@ -177,7 +179,7 @@ deze periodiek te herzien.
 
 11.2. Indien de overeenkomst tevens uit een duurovereenkomst bestaat, met een looptijd van meer dan 1 (één) jaar en de aansprakelijkheid van Bonaroo vloeit voort uit deze duurovereenkomst, wordt de bedongen prijs gesteld op ten hoogste het totaal van de vergoedingen (exclusief BTW) daadwerkelijk betaald door Cliënt aan Bonaroo op basis van de duurovereenkomst voor 1 (één) jaar (zijnde het jaar waarin de schade zich heeft voorgedaan) met een maximum van € 250.000,- (tweehonderdvijftigduizend euro).
 
-11.3. Bonaroo heeft zich ter zake van schade verzekerd. Bonaroo is in ieder geval niet aansprakelijk voor verdere schade en zal deze verdere schade ook niet vergoeden, die Cliënt uit hoofde van de met Bonaroo gesloten overeenkomst, hoe en uit welke hoofde dan ook ontstaan, zulks met inbegrip van mogelijke aanspraken op Cliënt van derden, mocht lijden, dan door deze verzekering gedekt wordt en daadwerkelijk vergoed vermeerderd met Bonaroo’s eigen risico, tenzij er sprake is van opzet of bewuste roekeloosheid.
+11.3. Bonaroo heeft zich ter zake van schade verzekerd. Onverminderd de maxima in de leden 11.1 en 11.2 geldt dat de aansprakelijkheid van Bonaroo voor schade die niet onder lid 11.1 of 11.2 valt, in ieder geval is beperkt tot het bedrag dat door de beroepsaansprakelijkheidsverzekering van Bonaroo in het desbetreffende geval daadwerkelijk wordt uitgekeerd, vermeerderd met het eigen risico van Bonaroo onder die verzekering. Deze beperking geldt niet indien de schade het gevolg is van opzet of bewuste roekeloosheid van Bonaroo.
 
 11.4. De totale aansprakelijkheid van Bonaroo voor schade door dood of lichamelijk letsel zal in geen geval meer bedragen dan € 1.000.000,- (één miljoen euro), waarbij een reeks van samenhangende gebeurtenissen geldt als één gebeurtenis.
 
@@ -201,8 +203,7 @@ deze periodiek te herzien.
 
 12.2. Door Cliënt gedane betalingen strekken steeds ter afdoening van ten eerste de verschuldigde rente en kosten, en ten tweede van opeisbare facturen die het langst open staan, zelfs al vermeldt de wederpartij, dat de voldoening betrekking heeft op een latere factuur of verbintenis.
 
-12.3. Indien Bonaroo geen betaling heeft ontvangen na ommekomst van voornoemde
-betalingstermijn is Cliënt, zonder dat hiervoor een ingebrekestelling vereist is, in verzuim. Bonaroo zal Cliënt hier van op de hoogte stellen en Cliënt de mogelijkheid geven om binnen een termijn van 14 dagen alsnog aan zijn betalingsverplichting te voldoen. Indien betaling uitblijft is Cliënt over het openstaande factuurbedrag de wettelijke rente verschuldigd, verhoogd met 1,5%, per maand, waarbij een gedeelte van een maand als een hele maand geldt. Verder is Bonaroo bij deze gerechtigd het door de klant verschuldigde bedrag te verhogen met alle gemaakte (buiten) gerechtelijke invorderingskosten en uitgaven, waaronder mede begrepen kosten van advocaten, deurwaarders, interne kosten etc. Worden deze kosten niet tijdig voldaan, dan zullen die, vooruitlopend op de vaststelling van de werkelijke kosten, voorlopig worden bepaald op een direct opeisbaar bedrag van 15% van de onbetaalde factuur, met een minimum van € 250,00.
+12.3. Indien Bonaroo geen betaling heeft ontvangen na ommekomst van voornoemde betalingstermijn is Cliënt, zonder dat hiervoor een ingebrekestelling vereist is, in verzuim. Bonaroo zal Cliënt hiervan op de hoogte stellen en Cliënt de mogelijkheid geven om binnen een termijn van 14 dagen alsnog aan zijn betalingsverplichting te voldoen. Indien betaling na deze aanvullende termijn uitblijft, is Cliënt over het openstaande factuurbedrag de wettelijke handelsrente (als bedoeld in artikel 6:119a BW) verschuldigd, te rekenen vanaf de dag van verzuim. Verder is Bonaroo gerechtigd de redelijke buitengerechtelijke incassokosten aan Cliënt in rekening te brengen, berekend overeenkomstig het Besluit vergoeding voor buitengerechtelijke incassokosten (BIK), met een minimum van € 40,00.
 
 12.4. Bonaroo heeft het recht zijn dienstverlening en overige verplichtingen op te schorten, totdat algehele betaling heeft plaatsgevonden, onverminderd de gehoudenheid van Cliënt om aan zijn verplichtingen te voldoen. Aan (de gevolgen van) opschorting kan Cliënt geen aanspraken of recht op compensatie jegens Bonaroo ontlenen.
 
@@ -261,7 +262,7 @@ Voorwaarden Derden tenzij anders aangegeven. Bij strijd tussen de Algemene Voorw
 
 16.4. Het is Cliënt en bij Maatwerk Bonaroo verboden de Producten op welke wijze dan ook zelf en/of middels derden, onder welke titel dan ook of op welke wijze dan ook te kopiëren, verspreiden of te openbaren, zonder daaraan voorafgaand de schriftelijke toestemming van Bonaroo, bij Maatwerk Cliënt, te hebben ontvangen, behoudens vigerende dwingrechtelijke wetgeving.
 
-16.5. Behoudens het Maatwerk zal Cliënt de Producten niet wijzigen behalve dan in het kader van het herstellen van Storingen waarbij herstel uitsluitend ziet op de oorspronkelijke staat waarin het Product zich bevond. Bonaroo zal het Maatwerk, zonder voorafgaande schriftelijke goedkeuring van Cliënte, niet wijzigen behalve dan in het kader van het herstellen van Storingen en/of het verrichten van onderhoudswerkzaamheden, of op grond van een overeenkomst tussen partijen. Indien Cliënt het Maatwerk wijzigt is uitsluitend Cliënt verantwoordelijk voor de wijzigingen en de gevolgen daarvan.
+16.5. Behoudens het Maatwerk zal Cliënt de Producten niet wijzigen behalve dan in het kader van het herstellen van Storingen waarbij herstel uitsluitend ziet op de oorspronkelijke staat waarin het Product zich bevond. Bonaroo zal het Maatwerk, zonder voorafgaande schriftelijke goedkeuring van Cliënt, niet wijzigen behalve dan in het kader van het herstellen van Storingen en/of het verrichten van onderhoudswerkzaamheden, of op grond van een overeenkomst tussen partijen. Indien Cliënt het Maatwerk wijzigt is uitsluitend Cliënt verantwoordelijk voor de wijzigingen en de gevolgen daarvan.
 
 16.6. Het is Cliënt toegestaan Back-ups te maken van zijn gegevens op de ter beschikking gestelde Producten, indien een Back-up niet ter beschikking wordt gesteld door Bonaroo en mits de Back-ups niet gebruikt worden door Cliënt voor andere doeleinden dan het duurzaam opslaan van gegevens op een exemplaar voor archiefdoeleinden.
 
@@ -280,7 +281,7 @@ opeisbaar en afgerekend.
 
 18.1. Cliënt komt de bevoegdheid tot ontbinding van een overeenkomst slechts toe indien Bonaroo, steeds in alle gevallen na een deugdelijke en zo gedetailleerd mogelijke schriftelijke ingebrekestelling waarbij een redelijke termijn gesteld wordt voor zuivering van de tekortkoming, toerekenbaar tekortschiet in de nakoming van wezenlijke verplichtingen uit de overeenkomst. Indien tussentijdse ontbinding schriftelijk is overeengekomen zullen partijen de vooraf overeengekomen opzegtermijnen en voorschriften steeds in acht nemen.
 
-18.2. Indien Bonaroo met een cliënt een overeenkomst aangaat zal bij tussentijdse beëindiging van de overeenkomst door Cliënt de al verrichte werkzaamheden, kosten die Bonaroo tot dan toe heeft gemaakt, vermeerderd met de gemiste bruto winst die Bonaroo zou hebben gemaakt bij voltooiing van de overeenkomst indien tussentijdse beëindiging niet zou hebben plaatsgevonden, en kosten voortvloeiend uit verbintenissen met onderaannemers, producenten en derden die zij voor de Producten is aangegaan, onmiddellijke opeisbaar worden. Bij berekening van het factuurbedrag zullen de al verrichte werkzaamheden, indien niet reeds gespecificeerd naar rato worden gefactureerd.
+18.2. Bij tussentijdse beëindiging van de overeenkomst door Cliënt worden de volgende bedragen onmiddellijk opeisbaar: (a) de vergoeding voor reeds verrichte werkzaamheden, naar rato berekend indien niet reeds gespecificeerd; (b) kosten die Bonaroo tot dan toe heeft gemaakt; en (c) kosten voortvloeiend uit verbintenissen met onderaannemers, producenten en derden die Bonaroo ten behoeve van de Producten is aangegaan en die Bonaroo niet redelijkerwijs kan annuleren of beperken.
 
 18.3. Partijen hebben het recht de overeenkomst met de wederpartij met onmiddellijke ingang zonder rechterlijke tussenkomst te ontbinden, zonder daarbij gehouden te zijn tot enige schadevergoeding indien wederpartij in staat van faillissement wordt verklaard, dan wel in surseance van betaling verkeerd, of indien wederpartij wordt geliquideerd of beëindigd anders dan ten behoeve van reconstructie of samenvoeging van ondernemingen.
 
@@ -290,7 +291,7 @@ opeisbaar en afgerekend.
 
 19.2. Voor zover door de regels van dwingend recht niet anders wordt voorgeschreven, zullen alle geschillen die mochten ontstaan naar aanleiding van de overeenkomst worden voorgelegd aan de bevoegde Nederlandse rechter.
 
-19.3. Bonaroo heeft het recht deze Algemene Voorwaarden te wijzigen. Een wijziging zal niet eerder in werking treden dan veertien dagen na kennisgeving aan Cliënt. Cliënt kan de overeenkomst opzeggen tegen de datum dat een dergelijke wijziging van kracht wordt. Aangegane projecten met Cliënt zullen naar rato worden afgerekend.
+19.3. Bonaroo heeft het recht deze Algemene Voorwaarden te wijzigen. Een wijziging zal niet eerder in werking treden dan dertig dagen na schriftelijke kennisgeving aan Cliënt. Indien Cliënt niet akkoord wenst te gaan met de wijziging, kan Cliënt de overeenkomst schriftelijk opzeggen tegen de datum waarop de wijziging van kracht wordt. Lopende projecten met Cliënt zullen in dat geval naar rato worden afgerekend.
 
 19.4. Overdracht van rechten of een overeenkomst aan een derde partij, waaronder begrepen moeder-, zuster- of dochtermaatschappijen is pas toegestaan nadat Cliënt de toestemming van Bonaroo verkrijgt voor overdracht aan die derde partij. Deze toestemming zal Bonaroo niet op onredelijke gronden onthouden, maar aan het verlenen van toestemming mag Bonaroo nadere voorwaarden zoals de betaling van een vergoeding stellen. Cliënt vrijwaart Bonaroo voor eventuele aanspraken van derden, die in verband met het overgedragen gebruiksrecht op het Product of door gebruik schade lijden welke aan Bonaroo toerekenbaar zouden zijn.
 
