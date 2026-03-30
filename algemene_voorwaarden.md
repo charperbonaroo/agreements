@@ -148,9 +148,7 @@ schriftelijk worden afgeweken door een bevoegd vertegenwoordiger van Bonaroo.
 
 9.5 Doorgifte van de Persoonsgegevens door Bonaroo aan een land buiten de Europese Economische Ruimte kan uitsluitend plaatsvinden indien dit ingevolge de AVG is toegestaan. Bonaroo zal ten aanzien van die doorgifte altijd alle benodigde overeenkomsten aangaan en aan alle eisen als vermeld in de AVG voldoen.
 
-9.6 Cliënt heeft het recht om Bonaroo te verzoeken om redelijke aanvullende
-beveiligingsmaatregelen te nemen ter bescherming van de Persoonsgegevens. Als deze maatregelen buiten de door Bonaroo standaard gehanteerde of overeengekomen maatregelen vallen dan vergoedt Cliënt de kosten die Bonaroo als gevolg
-daarvan extra maakt, in aanvulling op de overeengekomen vergoeding.
+9.6 Cliënt heeft het recht om Bonaroo te verzoeken om redelijke aanvullende beveiligingsmaatregelen te nemen ter bescherming van de Persoonsgegevens. Als deze maatregelen buiten de door Bonaroo standaard gehanteerde of overeengekomen maatregelen vallen dan vergoedt Cliënt de kosten die Bonaroo als gevolg daarvan extra maakt, in aanvulling op de overeengekomen vergoeding.
 
 9.7. Cliënt erkent en stemt ermee in dat Bonaroo (een deel van) de verwerking van Persoonsgegevens kan uitbesteden aan subverwerkers. Bonaroo houdt een actuele lijst bij van subverwerkers en stelt Cliënt ten minste dertig dagen voorafgaand aan de inschakeling van een nieuwe subverwerker schriftelijk op de hoogte. Indien Cliënt gemotiveerd bezwaar maakt tegen een voorgenomen subverwerker, treden partijen in overleg om tot een redelijke oplossing te komen. Bonaroo zorgt ervoor dat iedere subverwerker gebonden is aan ten minste gelijkwaardige verplichtingen inzake gegevensbescherming en geheimhouding als die welke zijn opgenomen in deze Voorwaarden.
 
